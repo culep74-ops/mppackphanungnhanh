@@ -1,0 +1,7 @@
+{
+  "name": "CartonRecord - Hệ thống Quản lý Hồ sơ Bao bì",
+  "description": "Hệ thống quản lý hồ sơ, lỗi, khắc phục và trao đổi nội bộ chuyên nghiệp dành cho doanh nghiệp bao bì carton.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
